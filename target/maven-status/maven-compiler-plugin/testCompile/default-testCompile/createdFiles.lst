@@ -1,7 +1,0 @@
-repositories/VehicleRepositoryTest.class
-repositories/VehicleModelRepositoryTest.class
-repositories/ContactRepositoryTest.class
-repositories/AddressRepositoryTest.class
-repositories/VehicleMakeRepositoryTest.class
-repositories/ElementTypeRepositoryTest.class
-repositories/ElementRepositoryTest.class
